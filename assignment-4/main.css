@@ -1,0 +1,41 @@
+#paintPrice{
+  color:white;
+  background:black;
+  text-align: left;
+  width: 50%;
+  font-size: 25px;
+  line-height: 50px;
+  margin: auto;
+  margin-top: 40px;
+  padding:30px;
+  font:20px;
+
+}
+
+#paragraph{
+  color:white;
+  background:black;
+  text-align: left;
+  width: 50%;
+  font-size: 25px;
+  line-height: 50px;
+  margin: auto;
+  margin-top: 40px;
+  padding:30px;
+
+}
+#paragraph input{
+  width:350px;
+  height: 150px;
+  background: lightyellow;
+}
+
+[input] {
+  width: 300px;
+  height:60px;
+}
+
+#paragraph > form:nth-child(1) > input:nth-child(6){
+  width: 300px;
+  height:60px;
+}

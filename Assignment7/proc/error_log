@@ -1,0 +1,81 @@
+[26-Feb-2017 00:47:00 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/delete.php on line 37
+[26-Feb-2017 00:51:33 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 13
+[26-Feb-2017 00:51:33 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 16
+[26-Feb-2017 00:51:33 America/Denver] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 19
+[26-Feb-2017 00:56:10 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 13
+[26-Feb-2017 00:56:10 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 16
+[26-Feb-2017 00:56:10 America/Denver] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 19
+[26-Feb-2017 00:56:27 America/Denver] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_ps.php on line 12
+[26-Feb-2017 00:57:38 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 13
+[26-Feb-2017 00:57:38 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 16
+[26-Feb-2017 00:57:38 America/Denver] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 19
+[26-Feb-2017 00:58:22 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 39
+[26-Feb-2017 01:04:10 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_multi.php on line 52
+[26-Feb-2017 01:14:00 America/Denver] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 65
+[26-Feb-2017 01:22:37 America/Denver] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_ps.php on line 12
+[26-Feb-2017 01:26:19 America/Denver] PHP Notice:  Undefined variable: conn in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/update.php on line 27
+[26-Feb-2017 01:26:19 America/Denver] PHP Fatal error:  Call to a member function prepare() on null in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/update.php on line 27
+[26-Feb-2017 01:26:41 America/Denver] PHP Notice:  Undefined variable: conn in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/update.php on line 27
+[26-Feb-2017 01:26:41 America/Denver] PHP Fatal error:  Call to a member function prepare() on null in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/update.php on line 27
+[26-Feb-2017 01:28:00 America/Denver] PHP Notice:  Undefined variable: conn in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/update.php on line 27
+[26-Feb-2017 01:28:00 America/Denver] PHP Fatal error:  Call to a member function prepare() on null in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/update.php on line 27
+[26-Feb-2017 01:28:44 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/update.php on line 40
+[26-Feb-2017 01:34:12 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 13
+[26-Feb-2017 01:34:12 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 15
+[26-Feb-2017 01:34:12 America/Denver] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 24
+[26-Feb-2017 01:36:20 America/Denver] PHP Notice:  Undefined property: PDO::$connect_error in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 27
+[26-Feb-2017 01:36:20 America/Denver] PHP Notice:  Undefined property: PDOStatement::$num_rows in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 36
+[26-Feb-2017 01:36:20 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 46
+[26-Feb-2017 19:36:03 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 39
+[26-Feb-2017 19:36:23 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/update.php on line 40
+[26-Feb-2017 19:36:36 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_multi.php on line 52
+[26-Feb-2017 19:36:57 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/delete.php on line 37
+[28-Feb-2017 20:31:25 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 39
+[28-Feb-2017 20:31:30 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_multi.php on line 52
+[28-Feb-2017 20:32:35 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 39
+[28-Feb-2017 20:32:46 America/Denver] PHP Notice:  Undefined property: PDO::$connect_error in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 27
+[28-Feb-2017 20:32:46 America/Denver] PHP Notice:  Undefined property: PDOStatement::$num_rows in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 36
+[28-Feb-2017 20:32:46 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 46
+[28-Feb-2017 20:32:53 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/update.php on line 40
+[28-Feb-2017 20:33:10 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 39
+[28-Feb-2017 20:33:22 America/Denver] PHP Notice:  Undefined property: PDO::$connect_error in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 27
+[28-Feb-2017 20:33:22 America/Denver] PHP Notice:  Undefined property: PDOStatement::$num_rows in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 36
+[28-Feb-2017 20:33:22 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 46
+[28-Feb-2017 20:33:25 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_multi.php on line 52
+[28-Feb-2017 20:33:32 America/Denver] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 65
+[04-Mar-2017 22:42:04 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 39
+[04-Mar-2017 23:55:26 America/Denver] PHP Notice:  Undefined property: PDO::$connect_error in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 27
+[04-Mar-2017 23:55:26 America/Denver] PHP Notice:  Undefined property: PDOStatement::$num_rows in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 36
+[04-Mar-2017 23:55:26 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 46
+[04-Mar-2017 23:55:36 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 39
+[04-Mar-2017 23:58:17 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/delete.php on line 37
+[04-Mar-2017 23:58:27 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 39
+[04-Mar-2017 23:58:34 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_multi.php on line 52
+[04-Mar-2017 23:58:50 America/Denver] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 65
+[04-Mar-2017 23:58:58 America/Denver] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 65
+[04-Mar-2017 23:59:12 America/Denver] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 65
+[04-Mar-2017 23:59:31 America/Denver] PHP Notice:  Undefined property: PDO::$connect_error in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 27
+[04-Mar-2017 23:59:31 America/Denver] PHP Notice:  Undefined property: PDOStatement::$num_rows in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 36
+[04-Mar-2017 23:59:31 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 46
+[04-Mar-2017 23:59:38 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/update.php on line 40
+[04-Mar-2017 23:59:45 America/Denver] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 65
+[05-Mar-2017 00:05:20 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/delete.php on line 37
+[05-Mar-2017 00:05:25 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/insert_conn.php on line 39
+[05-Mar-2017 00:05:55 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/update.php on line 40
+[05-Mar-2017 00:06:00 America/Denver] PHP Notice:  Undefined property: PDO::$connect_error in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 27
+[05-Mar-2017 00:06:00 America/Denver] PHP Notice:  Undefined property: PDOStatement::$num_rows in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 36
+[05-Mar-2017 00:06:00 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select_inject.php on line 46
+[05-Mar-2017 00:14:29 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 65
+[05-Mar-2017 00:14:33 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 65
+[05-Mar-2017 00:14:40 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 65
+[05-Mar-2017 00:22:30 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 65
+[05-Mar-2017 00:24:35 America/Denver] PHP Notice:  Undefined property: PDO::$connect_error in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 29
+[05-Mar-2017 00:24:35 America/Denver] PHP Notice:  Undefined property: PDOStatement::$num_rows in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 36
+[05-Mar-2017 00:24:35 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 46
+[05-Mar-2017 00:24:48 America/Denver] PHP Notice:  Undefined property: PDO::$connect_error in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 29
+[05-Mar-2017 00:24:48 America/Denver] PHP Notice:  Undefined property: PDOStatement::$num_rows in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 36
+[05-Mar-2017 00:24:48 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 46
+[05-Mar-2017 00:25:44 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/delete.php on line 37
+[05-Mar-2017 01:21:56 America/Denver] PHP Notice:  Undefined property: PDO::$connect_error in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 29
+[05-Mar-2017 01:21:56 America/Denver] PHP Notice:  Undefined property: PDOStatement::$num_rows in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 36
+[05-Mar-2017 01:21:56 America/Denver] PHP Fatal error:  Call to undefined method PDO::close() in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Assignment7/proc/select.php on line 46
