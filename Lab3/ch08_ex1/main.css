@@ -1,0 +1,27 @@
+#paintPrice {
+
+    color: white;
+    background: black;
+    text-align: left;
+    width: 60%;
+    font-size: 30px;
+    line-height: 20px;
+    margin: auto;
+    margin-top: 2em;
+
+
+}
+body {
+ margin-top: 2em;
+    border: 2px solid navy;
+
+}
+label {
+
+    width: 10em;
+
+    float: left;
+
+    padding-right: 1em;
+
+}

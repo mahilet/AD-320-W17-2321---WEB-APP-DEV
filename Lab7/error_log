@@ -1,0 +1,2 @@
+[14-Feb-2017 20:33:28 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'icoolsho_mhailem '@'localhost' (using password: YES) in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Lab7/mysql.php on line 16
+[14-Feb-2017 20:33:37 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'icoolsho_mhailem '@'localhost' (using password: YES) in /home1/icoolsho/icoolshow/nsc2017/mhailemariam/Lab7/mysqlOOP.php on line 16
